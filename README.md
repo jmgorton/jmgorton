@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Jared's the name, coding's the game. I've been particularly enjoying Python lately. I like problems that require complex math. If you want to know more, please reach out.
+
 <!--
 **jmgorton/jmgorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
