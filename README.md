@@ -2,6 +2,8 @@
 
 Jared's the name, coding's the game. I've been particularly enjoying Python lately. I have professional experience with Java, AWS, Linux, and distributed systems. I like problems that require complex math. If you want to know more, please reach out.
 
+I am a software engineer passionate about building responsive and fun- or easy-to-use applications, while avoiding unnecessary computational or resource wastefulness and inefficiencies. I'm always looking for ways to trim the metaphorical fat of the systems I work on, and I like automating tasks to save time and reduce cognitive load and opportunities for error. I like working in Linux (bash) and AWS, with languages like Python, Java, and Go. I'm also interested in number theory and cryptography. 
+
 <!--
 **jmgorton/jmgorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
